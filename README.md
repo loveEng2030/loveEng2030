@@ -1,14 +1,19 @@
 # Hi 👋, I'm Amr Ibn Fathy El-Laithy  
 
-🎓 I'm a 2st-year Information Systems Student at Assiut National University  
+🎓 I'm a 2nd-year Information Systems Student at Assiut National University  
 💻 I have academic experience in **C++** and **C#**  
 🚀 Strong interest in **Software Development & Problem Solving**  
 
 ---
 
 ## 🛠️ Languages & Tools
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)  
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/visual-studio.png" width="40" height="40"/>
+</p>
 
 ---
 
@@ -28,10 +33,17 @@
 ## 🛠️ لغات وأدوات
 - ++C  
 - #C  
+- GitHub  
+- Visual Studio / VS Code  
 
 ---
 
 ## 📌 أهدافي
 - تطوير مهاراتي في البرمجة  
 - المساهمة في مشاريع مفتوحة المصدر  
-- بناء مشاريع تساعد الطلاب والمطورين الجدد
+- بناء مشاريع تساعد الطلاب والمطورين الجدد  
+
+---
+
+## 📱 للتواصل
+[<img src="https://img.icons8.com/color/24/whatsapp.png" width="20"/>](https://wa.me/201287188255) 01287188255  
