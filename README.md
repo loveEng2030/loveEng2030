@@ -1,3 +1,5 @@
+
+![C#](https://img.shields.io/badge/C%23-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 # Hi 👋, I'm Amr Ibn Fathy El-Laithy  
 
 🎓 I'm a 2nd-year Information Systems Student at Assiut National University  
