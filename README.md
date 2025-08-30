@@ -1,6 +1,6 @@
 # Hi 👋, I'm Amr Ibn Fathy El-Laithy  
 
-🎓 I'm a 1st-year Information Systems Student at Assiut National University  
+🎓 I'm a 2st-year Information Systems Student at Assiut National University  
 💻 I have academic experience in **C++** and **C#**  
 🚀 Strong interest in **Software Development & Problem Solving**  
 
@@ -19,7 +19,7 @@
 
 # 👋 مرحباً، أنا عمرو بن فتحي الليثي  
 
-🎓 طالب في الفرقة الأولى – نظم ومعلومات – جامعة أسيوط الأهلية  
+🎓 طالب في الفرقة الثانية – نظم ومعلومات – جامعة أسيوط الأهلية  
 💻 عندي خبرة أكاديمية في **++C** و **#C**  
 🚀 مهتم بمجال **تطوير البرمجيات** وحل المشكلات  
 
