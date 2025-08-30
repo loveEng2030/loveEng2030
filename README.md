@@ -51,5 +51,7 @@
 
 ## 📱 للتواصل
 [<img src="https://img.icons8.com/color/24/whatsapp.png" width="20"/>](https://wa.me/201287188255) 01287188255  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amr%20Lithy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/عمرو-بن-فتحي-الليثي-amr-lithy-21b237294)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amr%20Lithy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/عمرو-بن-فتحي-الليثي-amr-lithy-IS)
 
