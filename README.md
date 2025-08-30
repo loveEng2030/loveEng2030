@@ -18,9 +18,11 @@
 
 ---
 
-## 📊 GitHub Stats
-![Amr's GitHub stats](![C#](https://img.shields.io/badge/C%23-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-)
+## 📊 GitHub Stats  
+
+![C#](https://img.shields.io/badge/C%23-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveEng2030&show_icons=true&theme=tokyonight)
 
 ---
 
