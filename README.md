@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Amr Ibn Fathy El-Laithy  
 
-<!--
-**loveEng2030/loveEng2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 1st-year Information Systems Student at Assiut National University  
+💻 I have academic experience in **C++** and **C#**  
+🚀 Strong interest in **Software Development & Problem Solving**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)  
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)  
+
+---
+
+## 📊 GitHub Stats
+![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveEng2030&show_icons=true&theme=tokyonight)
+
+---
+
+# 👋 مرحباً، أنا عمرو بن فتحي الليثي  
+
+🎓 طالب في الفرقة الأولى – نظم ومعلومات – جامعة أسيوط الأهلية  
+💻 عندي خبرة أكاديمية في **++C** و **#C**  
+🚀 مهتم بمجال **تطوير البرمجيات** وحل المشكلات  
+
+---
+
+## 🛠️ لغات وأدوات
+- ++C  
+- #C  
+
+---
+
+## 📌 أهدافي
+- تطوير مهاراتي في البرمجة  
+- المساهمة في مشاريع مفتوحة المصدر  
+- بناء مشاريع تساعد الطلاب والمطورين الجدد
