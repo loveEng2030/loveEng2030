@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Amr Ibn Fathy El-Laithy  
+# Hi 👋, I'm Amr Ebn Fathy El-Lithy  
 
 🎓 I'm a 2nd-year Information Systems Student at Assiut National University  
 💻 I have academic experience in **C++** and **C#**  
