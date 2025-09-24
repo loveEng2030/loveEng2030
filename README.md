@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Amr+Ebn+Fathy+El-Lithy;عمرو بـ𓂆ـن فتحي الليثي💙 ;Information+Systems+Student;Software+Developer+in+progress)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Amr+Ebn+Fathy+El-Lithy;عمرو+بن+فتحي+الليثي💙;🚀+Software+Developer+in+progress;🎓+Information+Systems+Student)](https://git.io/typing-svg)
 
 🎓 I'm a 2nd-year Information Systems Student at Assiut National University  
 💻 I have academic experience in **C++**, **C#**, and **Java**  
