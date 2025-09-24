@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00F700,100:1E90FF&height=200&section=header&text=Amr%20Ebn%20Fathy%20El-Lithy&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Amr+Ebn+Fathy+El-Lithy)](https://git.io/typing-svg)  
 
