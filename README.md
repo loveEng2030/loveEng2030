@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&width=600&lines=عمرو+بن+فتحي+الليثي💙)](https://git.io/typing-svg)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=1E90FF&center=true&vCenter=true&width=600&lines=🚀+Software+Developer+in+progress)](https://git.io/typing-svg)  
 
 🎓 I'm a 2nd-year Information Systems Student at Assiut National University  
 💻 I have academic experience in **C++**, **C#**, and **Java**  
@@ -48,13 +47,17 @@
 ---
 
 ## 🛠️ لغات وأدوات
-- ++C  
-- #C  
-- Java  
-- GitHub
-- Git
-- Visual Studio / VS Code  
+-## 🛠️ Languages & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/visual-studio.png" width="40" height="40"/>
+</p>
 
+---
 ---
 
 ## 📌 أهدافي
