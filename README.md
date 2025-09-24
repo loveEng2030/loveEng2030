@@ -1,4 +1,10 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00F700,100:1E90FF&height=200&section=header&text=Amr%20Ebn%20Fathy%20El-Lithy&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<h1 align="center">
+  <span style="color:#39ff14; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14;">
+    Amr Ebn Fathy El-Lithy
+  </span>
+</h1>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Amr+Ebn+Fathy+El-Lithy)](https://git.io/typing-svg)  
 
@@ -24,9 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-![C#](https://img.shields.io/badge/C%23-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveEng2030&show_icons=true&theme=tokyonight)
 ## 📊 GitHub Stats  
