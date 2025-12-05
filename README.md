@@ -23,20 +23,18 @@
 
 ---
 
-
-
 ## 📊 GitHub Stats
+
 <p align="center">
+  <!-- إحصائيات الحساب -->
   <img src="https://github-readme-stats.vercel.app/api?username=loveEng2030&show_icons=true&theme=tokyonight" height="180" />
+  <!-- اللغات -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveEng2030&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=loveEng2030&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loveEng2030&theme=tokyonight&row=1&column=6" />
+  <!-- مثال لإضافة حزمة أخرى لو حبيت -->
+  <!-- مثلاً streak أو trophy، لو حابب تضيفها لاحقًا -->
 </p>
 
 
