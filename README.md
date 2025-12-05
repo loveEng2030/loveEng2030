@@ -25,17 +25,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- إحصائيات الحساب -->
-  <img src="https://github-readme-stats.vercel.app/api?username=loveEng2030&show_icons=true&theme=tokyonight" height="180" />
-  <!-- اللغات -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveEng2030&layout=compact&theme=radical" height="180" />
-</p>
+![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveEng2030&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <!-- مثال لإضافة حزمة أخرى لو حبيت -->
-  <!-- مثلاً streak أو trophy، لو حابب تضيفها لاحقًا -->
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loveEng2030&layout=compact&theme=tokyonight)
 
 
 ---
