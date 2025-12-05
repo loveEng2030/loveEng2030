@@ -25,15 +25,19 @@
 
 
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loveEng2030&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveEng2030&layout=compact&theme=radical" height="180" />
+</p>
 
-## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=loveEng2030&theme=tokyonight" height="180" />
+</p>
 
-![C#](https://img.shields.io/badge/C%23-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-Java-red?style=for-the-badge&logo=java&logoColor=white)  
-
-![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveEng2030&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loveEng2030&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=loveEng2030&theme=tokyonight&row=1&column=6" />
+</p>
 
 
 ---
@@ -47,16 +51,15 @@
 ---
 
 ## 🛠️ لغات وأدوات
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/visual-studio.png" width="50" height="50"/>
+-## 🛠️ Languages & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/visual-studio.png" width="40" height="40"/>
 </p>
-
 
 ---
 ---
