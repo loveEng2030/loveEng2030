@@ -241,11 +241,14 @@ Modern websites and prototypes built using AI-assisted workflows.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=loveEng2030&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=loveEng2030&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveEng2030&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="42%"/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveEng2030&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 
 </div>
+
 
 ---
 
