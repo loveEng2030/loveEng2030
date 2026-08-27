@@ -1,50 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=AMR%20FATHY%20LITHY&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=18" width="100%"/>
+# 👋 Hi, I'm Amr Fathy Lithy
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Third-Year+Information+Systems+Student;Software+Developer;AI-Assisted+Developer;Building+Ideas+Into+Real+Projects;Always+Learning+Something+New+%F0%9F%9A%80" />
-</a>
+### 💻 Software Developer • 🤖 AI Enthusiast • 🎓 Information Systems Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Third-Year+Information+Systems+Student;Software+Developer;AI-Assisted+Developer;Building+Ideas+Into+Real+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/loveEng2030">
-<img src="https://komarev.com/ghpvc/?username=loveEng2030&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=loveEng2030&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🧑‍💻 `whoami`
+## 🧑‍💻 About Me
 
 ```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│  👨‍💻 Amr Fathy Lithy                               │
-│                                                    │
-│  🎓 Third-Year Information Systems Student         │
-│  💻 Software Developer                             │
-│  🤖 AI Enthusiast                                  │
-│  🌐 Web Development                                │
-│  🗄️ Databases & SQL                                │
-│                                                    │
-│  > Turning ideas into real applications..._       │
-│                                                    │
-╰────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────╮
+│                                              │
+│  👨‍💻 Amr Fathy Lithy                         │
+│                                              │
+│  🎓 Third-Year Information Systems Student   │
+│  💻 Software Developer                       │
+│  🤖 AI Enthusiast                            │
+│  🌐 Web Development                          │
+│  🗄️ Databases & SQL                          │
+│                                              │
+│  💡 Turning ideas into real projects         │
+│  🚀 Learning • Building • Improving          │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
-I'm an **Information Systems student** passionate about software development, problem solving, web technologies, databases, and AI-assisted development.
+I'm passionate about **software development, problem solving, web development, databases, and AI-assisted development**.
 
-I like taking an idea from **💡 concept → 💻 code → 🚀 working project**.
+I enjoy turning ideas into real applications and continuously improving my programming skills.
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,js,html,css,git,github,visualstudio,mysql&perline=10" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,js,html,css,mysql,git,github,vscode&perline=10" alt="Tech Stack" />
 
 </div>
 
@@ -54,7 +53,7 @@ I like taking an idea from **💡 concept → 💻 code → 🚀 working project
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
@@ -62,55 +61,81 @@ I like taking an idea from **💡 concept → 💻 code → 🚀 working project
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 📝 ExamPlatform
 
-> 🎓 Educational examination platform
+Educational examination platform designed to allow students to take exams while providing management functionality for exams and users.
 
-A project designed to allow students to take exams while providing administrators with tools to manage exams and users.
+**Technology:** `C#`
 
-**Built with:** `C#`
+</td>
 
----
+<td width="50%">
 
 ### 🏦 Bank System
 
-> 💰 Banking management application
+A banking management project created to practice programming fundamentals and application logic.
 
-A C++ project created to practice programming fundamentals and build a simple banking management system.
+**Technology:** `C++`
 
-**Built with:** `C++`
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🛒 SuperMarket Management
 
-> 🛍️ Supermarket management system
+A management system designed to handle supermarket operations and data.
 
-A management project designed to handle supermarket-related operations.
+**Technology:** `C#`
 
-**Built with:** `C#`
+</td>
 
----
+<td width="50%">
 
 ### 🏋️ Mini Fitness Tracker
 
-> 📊 Fitness tracking application
+A project focused on tracking fitness-related information while practicing software development.
 
-A project focused on tracking fitness-related information while practicing application development.
+**Technology:** `C#`
 
-**Built with:** `C#`
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🧮 Calculator
 
-> ➗ Java Calculator
+A Java calculator application created to practice programming fundamentals and GUI concepts.
 
-A calculator application built while practicing Java programming and GUI concepts.
+**Technology:** `Java`
 
-**Built with:** `Java`
+</td>
+
+<td width="50%">
+
+### 🌐 AI-Powered Websites
+
+Modern websites and prototypes created using AI-assisted development workflows.
+
+**Technology:** `HTML • CSS • JavaScript • AI`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -118,72 +143,59 @@ A calculator application built while practicing Java programming and GUI concept
 
 <div align="center">
 
-### `IDEA 💡 → AI 🤖 → CODE 💻 → PRODUCT 🚀`
+### 💡 IDEA → 🤖 AI → 💻 CODE → 🚀 PRODUCT
 
 </div>
 
-I also use **AI-assisted development** to turn ideas into functional websites, prototypes, and applications.
+I use **AI-assisted development** to speed up prototyping, explore ideas, improve code, and build modern applications.
 
-### 🌐 AI-Powered Web Projects
+### 🔥 What I Build With AI
 
-* ⚡ Rapid website prototyping
-* 🎨 Modern UI generation
-* 📱 Responsive web interfaces
+* 🌐 Modern responsive websites
+* 🎨 User interface prototypes
+* ⚡ Rapid application development
 * 🧠 AI-assisted coding
-* 🐛 Debugging & code improvement
-* 🚀 Turning ideas into working products
+* 🐛 Debugging and code improvement
+* 💡 Turning ideas into working prototypes
 
-### 🍕 Restaurant Website
-
-A modern website concept for a local pizza restaurant, created using AI-assisted development with a focus on modern UI, menu presentation, and customer experience.
-
-### 🎓 Educational Projects
-
-Building student-focused and educational ideas with modern development tools and AI assistance.
-
-> **AI helps me build faster — but understanding the code is still the goal.**
+> **AI helps me build faster — understanding the code helps me build better.**
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=loveEng2030&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveEng2030&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=loveEng2030&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/loveEng2030/loveEng2030/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
+# 📚 Currently Learning
 
 ```text
-[████████████████░░░░] Improve Programming Skills
-[██████████████░░░░░░] Build More Real Projects
-[████████████░░░░░░░░] Learn Advanced Web Development
-[██████████░░░░░░░░░░] Explore AI Development
-[████████░░░░░░░░░░░░] Contribute To Open Source
+💻 Advanced Programming
+🧠 Data Structures & Algorithms
+🗄️ SQL & Database Design
+🌐 Web Development
+🏗️ Software Engineering
+🤖 AI-Assisted Development
+🔐 Problem Solving
 ```
+
+---
+
+# 🎯 My Goals
+
+* 🚀 Become a professional Software Developer
+* 🧠 Improve my problem-solving skills
+* 💡 Build useful real-world applications
+* 🤖 Explore AI and modern development
+* 🌍 Contribute to Open Source
+* 📚 Keep learning and building
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=loveEng2030&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveEng2030&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages" />
+
+</div>
 
 ---
 
@@ -192,19 +204,19 @@ Building student-focused and educational ideas with modern development tools and
 <div align="center">
 
 <a href="https://github.com/loveEng2030">
-<img src="https://img.shields.io/badge/GitHub-loveEng2030-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-loveEng2030-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/عمرو-بن-فتحي-الليثي-amr-lithy-21b237294">
-<img src="https://img.shields.io/badge/LinkedIn-Amr%20Fathy%20Lithy-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Amr%20Fathy%20Lithy-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=61592551002142">
-<img src="https://img.shields.io/badge/Facebook-Amr%20Fathy-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-Amr%20Fathy-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 <a href="https://wa.me/201287188255">
-<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 </div>
@@ -213,10 +225,8 @@ Building student-focused and educational ideas with modern development tools and
 
 <div align="center">
 
-### 💻 Code. Build. Learn. Repeat.
+## 💻 Code • Build • Learn • Repeat 🚀
 
-**Thanks for visiting my profile! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer"/>
+### ⭐ Thanks for visiting my profile!
 
 </div>
